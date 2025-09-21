@@ -1,0 +1,2 @@
+-- v0.1 - Esquema inicial (placeholder)
+-- Tabelas serão definidas posteriormente.
